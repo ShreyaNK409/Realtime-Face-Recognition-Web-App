@@ -1,0 +1,47 @@
+body
+{
+    background-size: cover;
+}
+
+h1
+{
+    background-color: black;
+    color: ghostwhite;
+    margin: 0px;
+
+}
+
+.main_div
+{
+    float: none;
+    background-color: black;
+    color:white;
+    padding: 10px;
+    border-radius: 25px;
+}
+
+.Object_div
+{
+    float: none;
+    background-color:whitesmoke;
+    color:black;
+    border-radius: 10px;
+    width:25%;
+}
+
+.footer
+{
+    text-align: center;
+    background-color:black;
+    color:whitesmoke ;
+    width: 100%;
+    bottom:0;
+    position: fixed;
+}
+
+canvas
+{
+    border: 5px solid black;
+    border-radius: 20px;
+    margin-top: 100px;
+}
